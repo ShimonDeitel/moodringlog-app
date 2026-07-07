@@ -1,0 +1,42 @@
+{
+  "identifier" : "MoodRingLog",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {
+    "_storeKitErrors" : []
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "moodringlog_group",
+      "localizations" : [],
+      "name" : "Mood Ring Log Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "moodringlog_pro_monthly",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Mood-trend line chart and note-tagging",
+              "displayName" : "Mood Ring Log Pro",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.shimondeitel.moodringlog.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Mood Ring Log Pro Monthly",
+          "subscriptionGroupID" : "moodringlog_group",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
